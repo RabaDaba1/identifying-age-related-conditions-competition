@@ -1,4 +1,4 @@
-👨‍⚕️ From data scientist to a doctor 🩺
+# 👨‍⚕️ From data scientist to a doctor 🩺
 
 This repository contains my [submission](https://www.kaggle.com/code/kacperrabczewski/from-data-scientist-to-a-doctor) to the Kaggle **ICR - Identifying Age-Related Conditions** competition. I recommend viewing on Kaggle by clicking on *submission*.
 
